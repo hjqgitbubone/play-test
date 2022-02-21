@@ -1,7 +1,7 @@
 <template>
 <div>
     <div>这是在主分支写的</div>
-    就当做熟悉命令了
+    就当做熟悉命令
 </div>
 </template>
 
